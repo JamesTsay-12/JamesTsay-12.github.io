@@ -1,0 +1,21 @@
+---
+title: Welcome
+layout: default
+---
+
+# Welcome to My Personal Website!
+
+Hi, I’m James Tsay.  
+This is my personal site where you can find my **CV**, read my **blog**, and explore my projects.
+
+---
+
+## Quick Links
+
+- [View my CV](/cv)
+- [Visit my Blog](https://github.com/JamesTsay-12?tab=repositories) <!-- Replace with actual blog link -->
+- [Try my Financial Simulator]([https://yourapp.repl.co](https://github.com/JamesTsay-12/Finance/blob/main/retirementF.py) <!-- Replace with your app URL -->
+
+---
+
+Thanks for visiting!
