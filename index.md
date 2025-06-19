@@ -14,8 +14,9 @@ This is my personal site where you can find my **CV**, read my **blog**, and exp
 
 - View my CV: <a href="https://github.com/JamesTsay-12/JamesTsay-12.github.io/blob/main/060325_ResumeJamesTsay.pdf" target="_blank">CV</a>
 - Visit my Blog (TBD) <!-- Replace with actual blog link -->
-- Try my Retirement Financial Simulator: <a href="https://github.com/JamesTsay-12/Finance/blob/main/retirementF.py") target="_blank">Retirement Simulator</a>-
-- ([https://yourapp.repl.co](https://github.com/JamesTsay-12/Finance/blob/main/retirementF.py) <!-- Replace with your app URL -->
+- Try my Retirement Financial Simulator: <a href="https://github.com/JamesTsay-12/Finance/blob/main/retirementF.py") target="_blank">Retirement Simulator</a>
+  
+Replace with your app URL -->
 - User guide is here: <a href="https://github.com/JamesTsay-12/Finance-public-/blob/main/User_Guide_Portfolio_Simulation060425-2.pdf" target="_blank">user guide</a>
 - *The simulator is a Python file that you can download and run.  I will make this a web app in the future
 
