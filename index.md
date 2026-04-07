@@ -21,7 +21,8 @@ Thanks for visiting!
 
 ## Quick Links
 
-- **CV**
+- **CV:**
+  
 You can view my most recent CV here:  
 [James Tsay – CV (PDF)](https://github.com/JamesTsay-12/JamesTsay-12.github.io/blob/main/04-06-26_Resume_JamesTsay.pdf)
 - ** [LinkedIn Profile](https://www.linkedin.com/in/james-tsay-b2700a19/)**
