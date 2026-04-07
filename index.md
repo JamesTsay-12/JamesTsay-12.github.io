@@ -21,10 +21,7 @@ Thanks for visiting!
 
 ## Quick Links
 
-- **CV:**
-  
-You can view my most recent CV here:  
-[James Tsay – CV (PDF)](https://github.com/JamesTsay-12/JamesTsay-12.github.io/blob/main/04-06-26_Resume_JamesTsay.pdf)
+- **CV:** [James Tsay – CV (PDF)](https://github.com/JamesTsay-12/JamesTsay-12.github.io/blob/main/04-06-26_Resume_JamesTsay.pdf)
 - ** [LinkedIn Profile](https://www.linkedin.com/in/james-tsay-b2700a19/)**
 - Visit my Blog: <a href="https://jamestsay-12.github.io/blog-site/" target="_blank">Blog</a>
 - Try my Retirement Financial Simulator: <a href="https://github.com/JamesTsay-12/Finance/blob/main/retirementF.py" target="_blank">Retirement Simulator</a>
