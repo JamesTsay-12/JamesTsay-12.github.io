@@ -9,7 +9,7 @@ Hi, I'm James Tsay — a scientist, builder, mentor, and creative generalist. I 
 
 I’m most fulfilled when finding creative solutions, working with thoughtful people, and translating science into something meaningful, usable, and impactful for human life.
 
-Outside work, I’m passionate about music composition (especially atmospheric/film-inspired guitar and keyboard work), art, writing, and exploring intersections of ideas amd fields.  I’m currently composing original music, writing reflections on science, society, and personal growth, and trying to find substance and humor wherever possible.
+Outside work, I’m passionate about music composition (especially atmospheric/film-inspired guitar and keyboard work), art, writing, and exploring intersections of ideas and fields.  I’m currently composing original music, writing reflections on science, society, and personal growth, and trying to find substance and humor wherever possible.
 
 I believe in deep thinking, practical execution, and challenging the status quo when needed. I care about integrity, curiosity, and doing good work with good people — whether that’s in biotech, education, media, or something yet to be invented.
 This site is a home for my evolving projects — science writing, music, personal reflections, and experiments in new modes of work and impact.
